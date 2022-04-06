@@ -1,6 +1,6 @@
 [
   {
-    "id": "00ce3449-dedf-490b-9d57-0493d8fbba84",
+    "id": "54ad0500-5da7-4965-8db2-d08a2e4bb30d",
     "name": "Адміністрування та післядипломна освіта",
     "link": "https://lpnu.ua/iapo",
     "staff": [
@@ -10,7 +10,7 @@
     ],
     "departments": [
       {
-        "id": "b0145170-9ba1-47de-ad8b-82d0150f2a97",
+        "id": "47b82c8c-1130-42ca-896d-c1f9766a7556",
         "name": "ТПЕ Кафедра теоретичної та прикладної економіки",
         "link": "https://lpnu.ua/tpe",
         "scientists": [
@@ -20,7 +20,7 @@
         ]
       },
       {
-        "id": "0ae3e21f-d5ca-4d0d-8fc1-041355efb9c5",
+        "id": "4db7eb4f-c093-4a42-acef-d47917230787",
         "name": "АФМ Кафедра адміністративного та фінансового менеджменту",
         "link": "https://lpnu.ua/afm",
         "scientists": [
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "id": "06ed1d38-95a2-4994-a319-ee9e8a2154fe",
+        "id": "22897bca-49a2-4ffc-9b66-868ab12ea9f9",
         "name": "ТУ Кафедра технологій управління",
         "link": "https://lpnu.ua/tu",
         "scientists": [
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "id": "6b074528-a5de-472c-a3e4-19c43ae67eeb",
+        "id": "4a2c792c-78c2-4ebe-9657-6c8d982afdd5",
         "name": "НУОЦ Німецько-Український освітній центр",
         "link": "https://lpnu.ua/nuots",
         "scientists": [
@@ -44,7 +44,7 @@
         ]
       },
       {
-        "id": "856d794b-259e-4018-af88-e256bde0bb60",
+        "id": "0ecb6cb9-e69f-4d6f-9521-195cd231bda3",
         "name": "ДПО Деканат післядипломної освіти",
         "link": "https://lpnu.ua/dpo",
         "scientists": [
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "id": "10b3b0ba-848d-42fa-bbe5-cbb879d6503d",
+    "id": "fd017337-e739-4f1a-a0b2-831073d9cb9b",
     "name": "Архітектура та дизайн",
     "link": "https://lpnu.ua/iard",
     "staff": [
@@ -69,7 +69,7 @@
     ],
     "departments": [
       {
-        "id": "f0deba39-c054-4426-a936-9c98c52b73a9",
+        "id": "1637069d-763b-49b5-9712-4ac3a5f90731",
         "name": "ДАС Кафедра дизайну архітектурного середовища",
         "link": "https://lpnu.ua/das",
         "scientists": [
@@ -77,7 +77,7 @@
         ]
       },
       {
-        "id": "3f9508d8-b66c-44b4-aeb7-9dbde7cd1c05",
+        "id": "81b64eb3-5e18-49a2-a2c9-7391e4f10af4",
         "name": "АПІ Кафедра архітектурного проектування та інженерії",
         "link": "https://lpnu.ua/api",
         "scientists": [
@@ -86,7 +86,7 @@
         ]
       },
       {
-        "id": "c7b4614b-0849-4062-a73a-b7a3351b1715",
+        "id": "f797bd22-5ae7-49de-b9fe-cc45ce96dab1",
         "name": "ДОА Кафедра дизайну та основ архітектури",
         "link": "https://lpnu.ua/doa",
         "scientists": [
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "id": "1036776f-c4ce-4179-b396-65a93b9dd787",
+        "id": "ff1e5b92-e69a-43eb-8bee-b265286269aa",
         "name": "АП Кафедра архітектурного проектування",
         "link": "https://lpnu.ua/ap",
         "scientists": [
@@ -104,7 +104,7 @@
         ]
       },
       {
-        "id": "19d253ba-1b50-4257-8dcd-871387f0ca45",
+        "id": "b5b3a3c4-944d-4dbb-8da9-223ad4c9f626",
         "name": "АТР Кафедра архітектури та реставрації",
         "link": "https://lpnu.ua/atr",
         "scientists": [
@@ -113,7 +113,7 @@
         ]
       },
       {
-        "id": "5dea5d54-e7cf-4d09-ae57-fe51b0c07657",
+        "id": "f9c3cafe-6431-41f6-a384-2d1776eb4f9d",
         "name": "МБ Кафедра містобудування",
         "link": "https://lpnu.ua/mb",
         "scientists": [
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "id": "30ed4622-f4f9-4b71-9fed-3d8e694f65eb",
+    "id": "08ad7e30-536e-4b25-9388-5528286564de",
     "name": "Будівництво та інженерні системи",
     "link": "https://lpnu.ua/ibis",
     "staff": [
@@ -138,7 +138,7 @@
     ],
     "departments": [
       {
-        "id": "4179c032-4881-4ff9-b336-810be117e3af",
+        "id": "c5b7e341-d475-4a9d-be5d-a90b54f19b84",
         "name": "АДМ Кафедра автомобільних доріг та мостів",
         "link": "https://lpnu.ua/adm",
         "scientists": [
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "id": "72f03fb5-5c14-4759-8191-8e646db3bdb3",
+        "id": "6aac802f-0f51-4490-b844-720797bfa732",
         "name": "БКМ Кафедра будівельних конструкцій та мостів ",
         "link": "https://lpnu.ua/bkm",
         "scientists": [
@@ -158,7 +158,7 @@
         ]
       },
       {
-        "id": "d5901989-3c92-43bf-a304-ae282bc663d5",
+        "id": "f36a06d9-b7a8-4e73-948e-adf273c0edaa",
         "name": "БВ Кафедра будівельного виробництва",
         "link": "https://lpnu.ua/bv",
         "scientists": [
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "id": "cdd4d6a7-8d8c-4756-bbd6-c20d4a0a2895",
+        "id": "2592c7f7-c29f-46c2-a34e-ece193bddd0b",
         "name": "ГВІ Кафедра гідротехніки та водної інженерії",
         "link": "https://lpnu.ua/gvi",
         "scientists": [
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "id": "7f780d1c-ef32-409a-8d7f-8e7105e3b33e",
+        "id": "9c39e493-5dcb-47f7-8163-ca1bb28d3bb6",
         "name": "ОМБМ Кафедра опору матеріалів та будівельної механіки ",
         "link": "https://lpnu.ua/ombm",
         "scientists": [
@@ -188,7 +188,7 @@
         ]
       },
       {
-        "id": "a435b75b-5561-4094-ae49-09248a3b74de",
+        "id": "1f4ade24-d8bc-48e7-a73a-3f8c9daae353",
         "name": "ТГВ Кафедра теплогазопостачання і вентиляції ",
         "link": "https://lpnu.ua/tgv",
         "scientists": [
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "id": "8c9499f1-2473-4d0c-bc6e-e56ea35589b2",
+    "id": "4f7cd441-90fd-4557-abd4-a706a0272c9e",
     "name": "Геодезія",
     "link": "https://lpnu.ua/igdg",
     "staff": [
@@ -211,7 +211,7 @@
     ],
     "departments": [
       {
-        "id": "cc27eee9-6559-4dab-82e6-c11e74b08dce",
+        "id": "13501bed-e0d5-4c4b-a191-7ef31a06dfb3",
         "name": "ВГА Кафедра вищої геодезії та астрономії",
         "link": "https://lpnu.ua/vga",
         "scientists": [
@@ -220,7 +220,7 @@
         ]
       },
       {
-        "id": "708f3cac-569b-4357-bcde-81d4d2f59317",
+        "id": "c4285da1-aa95-471d-9790-08d2431e6174",
         "name": "КГ Кафедра геодезії",
         "link": "https://lpnu.ua/kh",
         "scientists": [
@@ -231,7 +231,7 @@
         ]
       },
       {
-        "id": "fd54e806-7d06-4a4d-a955-df79a87c1af7",
+        "id": "f7de9e76-c07a-4f99-a27d-30a724c2fdbc",
         "name": "ІГД Кафедра інженерної геодезії",
         "link": "https://lpnu.ua/igd",
         "scientists": [
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "id": "ebdd0e87-89ad-4f5b-a0bd-4d70787b399f",
+        "id": "dc37623e-9576-48d3-9717-c8e1155a5995",
         "name": "КДТ Кафедра кадастру територій ",
         "link": "https://lpnu.ua/kdt",
         "scientists": [
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "id": "fb90d888-aba2-4142-8153-357a13c40d5d",
+        "id": "ede98a64-9618-41a2-9643-ede990cbab96",
         "name": "КГМ Кафедра картографії та геопросторового моделювання",
         "link": "https://lpnu.ua/kgm",
         "scientists": [
@@ -257,7 +257,7 @@
         ]
       },
       {
-        "id": "215ac30b-8d99-4d50-88e2-19bea41b1851",
+        "id": "4b4f8d8c-d3bd-4381-8adf-0f05ca578c6b",
         "name": "ФГІ Кафедра фотограмметрії та геоінформатики ",
         "link": "https://lpnu.ua/fgi",
         "scientists": [
@@ -268,7 +268,7 @@
     ]
   },
   {
-    "id": "ba7c3923-aa47-431f-93dc-1659cca2eef9",
+    "id": "e8010155-e3d0-4744-b6cf-2eca552d494a",
     "name": "Гуманітарні та соціальні науки",
     "link": "https://lpnu.ua/igsn",
     "staff": [
@@ -280,7 +280,7 @@
     ],
     "departments": [
       {
-        "id": "86198f88-9831-4bd9-80c5-ee66fd230f27",
+        "id": "714f5830-9fed-4c07-8cd4-355dd5aa23f7",
         "name": "КФ Кафедра філософії",
         "link": "https://lpnu.ua/kf",
         "scientists": [
@@ -291,7 +291,7 @@
         ]
       },
       {
-        "id": "7ef5d100-f256-4ea3-8d59-ac2c5182e994",
+        "id": "30057b4d-7108-4fc0-a958-0b35c572ff58",
         "name": "СКІД Кафедра соціальних комунікацій та інформаційної діяльності",
         "link": "https://lpnu.ua/skid",
         "scientists": [
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "id": "9f41a23e-2f70-4d81-acd0-7fc48846744f",
+        "id": "36372562-40d3-44b6-b203-2da1fd3b60f2",
         "name": "ІМ Кафедра іноземних мов",
         "link": "https://lpnu.ua/im",
         "scientists": [
@@ -318,7 +318,7 @@
         ]
       },
       {
-        "id": "70a337fb-6d1b-474d-9734-4931ba9a92a2",
+        "id": "367bd803-9b48-4c11-85f7-d6454d4725ab",
         "name": "ІМКС Кафедра історії, музеєзнавства та культурної спадщини",
         "link": "https://lpnu.ua/imks",
         "scientists": [
@@ -327,7 +327,7 @@
         ]
       },
       {
-        "id": "c0fb9530-b5a4-42cc-a192-f79ecd16d3d2",
+        "id": "874ade42-5312-48fd-a468-838ba5a15f58",
         "name": "ПМВ Кафедра політології та міжнародних відносин",
         "link": "https://lpnu.ua/pmv",
         "scientists": [
@@ -337,7 +337,7 @@
         ]
       },
       {
-        "id": "31b43153-9887-48ea-8df8-074a47844e25",
+        "id": "41153e80-ccf3-404f-b4b7-7f9571d965bd",
         "name": "СР Кафедра соціології та соціальної роботи",
         "link": "https://lpnu.ua/sr",
         "scientists": [
@@ -347,7 +347,7 @@
         ]
       },
       {
-        "id": "e58a00d4-37a0-4ab3-a480-c3ead42eeca8",
+        "id": "ec5e850b-31e6-422e-979e-e9bfe76b3e5a",
         "name": "УМ Кафедра української мови",
         "link": "https://lpnu.ua/um",
         "scientists": [
@@ -357,7 +357,7 @@
         ]
       },
       {
-        "id": "6c4dc258-6d37-4f87-9612-5a10d6602794",
+        "id": "fd801fb6-f692-4717-a079-f857b6f22479",
         "name": "ФВ Кафедра фізичного виховання",
         "link": "https://lpnu.ua/fv",
         "scientists": [
@@ -366,7 +366,7 @@
         ]
       },
       {
-        "id": "1fda83fd-f8b8-4ec8-8037-7150f95545c8",
+        "id": "c3f0dae0-c4b9-461d-b1e3-57cba3a67094",
         "name": "МЦПП «Інтеграція» Міжнародний центр професійного партнерства «Інтеграція» - International “Integration” Centre for Professional Partnerships ",
         "link": "https://lpnu.ua/integration",
         "scientists": [
@@ -374,7 +374,7 @@
         ]
       },
       {
-        "id": "7e46d88a-b3a5-4064-b049-8d2d7d252f8d",
+        "id": "995f2344-6b31-4c83-8ebc-681e1295c20c",
         "name": "НАЦ ПД «Вектор» Науково-аналітичний центр політичних досліджень «Вектор»",
         "link": "https://lpnu.ua/nats-pd-vektor",
         "scientists": [
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "id": "269da822-f814-4c02-8e1b-753f80d4d9fb",
+    "id": "2fad5177-f9dc-4ef8-ab5d-7b99a7dc4f0b",
     "name": "Державне управління",
     "link": "https://lpnu.ua/indu",
     "staff": [
@@ -394,7 +394,7 @@
     ],
     "departments": [
       {
-        "id": "c37a25a5-1bf8-4995-8f29-f29e300bc45e",
+        "id": "07efc52a-a44c-41f9-96a8-5d2dd2b99fbd",
         "name": "ДПВ Кафедра державної політики та врядування",
         "link": "https://lpnu.ua/dpv",
         "scientists": [
@@ -402,7 +402,7 @@
         ]
       },
       {
-        "id": "6b242b5c-83e3-4ef9-b8db-02adc9171fdc",
+        "id": "3fceaf62-3b57-42cf-b010-479bc55bcd09",
         "name": "ПУС Кафедра публічного управління та публічної служби",
         "link": "https://lpnu.ua/pus",
         "scientists": [
@@ -410,7 +410,7 @@
         ]
       },
       {
-        "id": "0baaf28f-f77c-4e3d-8ca5-e0c3fd42d71d",
+        "id": "6ded5f34-165b-4f1d-be93-7c5d4e398248",
         "name": "РМР Кафедра регіонального та місцевого розвитку",
         "link": "https://lpnu.ua/rmr",
         "scientists": [
@@ -421,7 +421,7 @@
     ]
   },
   {
-    "id": "79c61bf3-b3a8-403d-b37a-22baf8deb4c6",
+    "id": "139c0cd7-c641-4ee7-b6aa-18923f5735c3",
     "name": "Дистанційне навчання",
     "link": "https://lpnu.ua/idn",
     "staff": [
@@ -432,7 +432,7 @@
     ],
     "departments": [
       {
-        "id": "f68d48b3-6225-4d04-92d1-f27152c7cdbc",
+        "id": "e67f61d3-b070-460d-9483-1966fabc90aa",
         "name": "НКЦ Деканат заочно-дистанційного навчання (НКЦ)",
         "link": "https://lpnu.ua/nkts",
         "scientists": [
@@ -442,7 +442,7 @@
         ]
       },
       {
-        "id": "43ca5073-8651-4ee1-9f71-13f327e7b801",
+        "id": "c9f6a04c-0fdc-48c5-be5c-d9d6c02c7036",
         "name": " Відділ організаційного супроводу дистанційного навчання",
         "link": "https://lpnu.ua/viddil-organizatsiinogo-suprovodu-dystantsiinogo-navchannia",
         "scientists": [
@@ -450,7 +450,7 @@
         ]
       },
       {
-        "id": "1036339b-ac78-4ba9-b9d5-a1cecac43b03",
+        "id": "335b300a-70b9-47fb-b90f-a3495116bc82",
         "name": " Відділ технічного забезпечення та адміністрування ІС",
         "link": "https://lpnu.ua/viddil-tekhnichnogo-zabezpechennia-ta-administruvannia",
         "scientists": [
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "id": "38b02dfa-1515-4376-ba69-e59d10e9a195",
+    "id": "f251c54e-293d-4871-ac33-f04a305e609e",
     "name": "Енергетика та системи керування",
     "link": "https://lpnu.ua/iesk",
     "staff": [
@@ -472,7 +472,7 @@
     ],
     "departments": [
       {
-        "id": "355c11e7-fa16-41a4-a70c-bae2776f6edd",
+        "id": "e1dd20bd-8a02-41ba-bc15-046e16458635",
         "name": "АВКТ Кафедра автоматизації та комп'ютерно-інтегрованих технологій",
         "link": "https://lpnu.ua/avkt",
         "scientists": [
@@ -481,7 +481,7 @@
         ]
       },
       {
-        "id": "91820b38-d82a-4778-8f0d-3b0b62cc3365",
+        "id": "f1db5fd8-32c6-4714-936d-ae521c884a03",
         "name": "ТЗЕ Кафедра теоретичної та загальної електротехніки",
         "link": "https://lpnu.ua/tze",
         "scientists": [
@@ -489,7 +489,7 @@
         ]
       },
       {
-        "id": "8e55d3cd-7e22-4ff1-b8cb-1d3353c6f645",
+        "id": "8fc7acf1-92fe-41de-9291-3af144da47b5",
         "name": "ТТАЕ Кафедра теплоенергетики, теплових та атомних електричних станцій",
         "link": "https://lpnu.ua/ttae",
         "scientists": [
@@ -499,7 +499,7 @@
         ]
       },
       {
-        "id": "80fbddef-2ca9-499d-97bf-8e4ceff88b96",
+        "id": "e60888f0-dc3e-41ab-b752-a144719eddde",
         "name": "ЕКС Кафедра електромехатроніки та комп'ютеризованих електромеханічних систем",
         "link": "https://lpnu.ua/eks",
         "scientists": [
@@ -507,7 +507,7 @@
         ]
       },
       {
-        "id": "47bd6cf7-2ebf-4b46-bfdd-58837720f36a",
+        "id": "453d8672-6f2f-4ed0-9db4-cc5954158bbd",
         "name": "ЕСУ Кафедра електроенергетики та систем управління",
         "link": "https://lpnu.ua/esu",
         "scientists": [
@@ -519,7 +519,7 @@
     ]
   },
   {
-    "id": "86a18944-d22f-4421-83f7-16e4393faac8",
+    "id": "07f462ce-8d03-4037-a7ee-4c04eb5d6289",
     "name": "Механічна інженерія та транспорт",
     "link": "https://lpnu.ua/imit",
     "staff": [
@@ -532,7 +532,7 @@
     ],
     "departments": [
       {
-        "id": "74ee5445-fe6c-427f-9f64-d0553f1308a9",
+        "id": "097aaf27-b220-40c5-b5cd-ef05f5a87045",
         "name": "АБ Кафедра автомобілебудування",
         "link": "https://lpnu.ua/ab",
         "scientists": [
@@ -541,7 +541,7 @@
         ]
       },
       {
-        "id": "85871b72-d2be-4880-9564-c254a2d61fd2",
+        "id": "596d0c74-087e-44ab-ab71-23a1847a49a7",
         "name": "ТМДМ Кафедра технічної механіки та динаміки машин",
         "link": "https://lpnu.ua/tmdm",
         "scientists": [
@@ -549,7 +549,7 @@
         ]
       },
       {
-        "id": "ec64730e-327f-4512-bac9-f1f57f577271",
+        "id": "2f46fa61-6941-4f43-a7c9-093caafe5f36",
         "name": "НГІЗ Кафедра нафтогазової інженерії та зварювання",
         "link": "https://lpnu.ua/ngiz",
         "scientists": [
@@ -558,7 +558,7 @@
         ]
       },
       {
-        "id": "679f393e-f633-4483-9978-42082ff34ae2",
+        "id": "07fc6da4-41aa-4aef-9aad-96358f42585e",
         "name": "АТ Кафедра автомобільного транспорту",
         "link": "https://lpnu.ua/at",
         "scientists": [
@@ -570,7 +570,7 @@
         ]
       },
       {
-        "id": "181ad823-b05e-437b-972c-a84331a0873d",
+        "id": "01b76f9d-cb34-4b6b-8ff9-f5bdb2e9ef51",
         "name": "ПЕМ Кафедра проектування та експлуатації машин",
         "link": "https://lpnu.ua/pem",
         "scientists": [
@@ -579,7 +579,7 @@
         ]
       },
       {
-        "id": "16f41860-778b-4cd5-83f4-54050e72c9ef",
+        "id": "fde44012-ff40-4015-9e99-aa5ab306e177",
         "name": "РІТМ Кафедра робототехніки та інтегрованих технологій машинобудування",
         "link": "https://lpnu.ua/ritm",
         "scientists": [
@@ -588,7 +588,7 @@
         ]
       },
       {
-        "id": "c8db4a93-8711-487b-bb45-4d578e04d409",
+        "id": "d9815062-2b5b-497b-9b41-59a1881d4aa3",
         "name": "МІМ Кафедра матеріалознавства та інженерії матеріалів",
         "link": "https://lpnu.ua/mim",
         "scientists": [
@@ -596,7 +596,7 @@
         ]
       },
       {
-        "id": "d30f0ee3-2d07-43ea-ab35-ed059daf68e9",
+        "id": "74df9b32-cba0-469e-846e-b4e3d271ddc1",
         "name": "ТТ Кафедра транспортних технологій",
         "link": "https://lpnu.ua/tt",
         "scientists": [
@@ -605,7 +605,7 @@
         ]
       },
       {
-        "id": "79f4aefc-83c5-481c-b90d-3cc6b0256af1",
+        "id": "43a2b469-f307-464d-8fa3-1b569186b99a",
         "name": "НЦ КДТЗ Навчальний центр комп’ютерної діагностики транспортних засобів «Львівська політехніка - Академія Бош»",
         "link": "https://lpnu.ua/nts-kdtz",
         "scientists": [
@@ -615,7 +615,7 @@
     ]
   },
   {
-    "id": "53551441-042c-49d8-afae-ed876b388ecb",
+    "id": "e85959b5-0935-49a6-86b0-8ebcefb1d8f0",
     "name": "Комп'ютерні науки",
     "link": "https://lpnu.ua/ikni",
     "staff": [
@@ -631,7 +631,7 @@
     ],
     "departments": [
       {
-        "id": "630a4b45-270f-4d28-960f-e75ba705cbe1",
+        "id": "ceeee3f6-e60e-4c3a-ae9b-f3e514af3d98",
         "name": "ІСМ Кафедра інформаційних систем та мереж",
         "link": "https://lpnu.ua/ism",
         "scientists": [
@@ -643,7 +643,7 @@
         ]
       },
       {
-        "id": "19e2e4d3-1e1f-4f23-94db-badfa77bca07",
+        "id": "39d0b71b-a565-48d8-8b09-ba2c15527ed3",
         "name": "АСУ Кафедра автоматизованих систем управління ",
         "link": "https://lpnu.ua/asu",
         "scientists": [
@@ -654,7 +654,7 @@
         ]
       },
       {
-        "id": "51e9d20a-f02a-4773-8143-42e2ddfd4775",
+        "id": "5c44ca8d-785d-4fc2-9869-16cb13ffe4dd",
         "name": "САПР Кафедра систем автоматизованого проектування  ",
         "link": "https://lpnu.ua/sapr",
         "scientists": [
@@ -667,7 +667,7 @@
         ]
       },
       {
-        "id": "4420fae5-348f-4353-a050-1b41aec02a57",
+        "id": "47949108-530e-494b-b07d-0f6d37abcdf4",
         "name": "ІТВС Кафедра інформаційних технологій видавничої справи  ",
         "link": "https://lpnu.ua/itvs",
         "scientists": [
@@ -676,7 +676,7 @@
         ]
       },
       {
-        "id": "3dd8cfeb-e5d1-4cb0-8807-9deddf5e4891",
+        "id": "d802586b-6221-499c-b17c-e9e1805e3599",
         "name": "ПЗ Кафедра програмного забезпечення  ",
         "link": "https://lpnu.ua/pz",
         "scientists": [
@@ -688,7 +688,7 @@
         ]
       },
       {
-        "id": "dfc915df-4681-408d-99de-8bb9ca50cfa7",
+        "id": "cdefba46-ff79-4827-a7b7-123f5b0a1f4c",
         "name": "СШІ Кафедра систем штучного інтелекту",
         "link": "https://lpnu.ua/sshi",
         "scientists": [
@@ -696,7 +696,7 @@
         ]
       },
       {
-        "id": "968f309d-d415-47f9-ac80-ce4ab6008c2f",
+        "id": "f2b0af3d-f6ef-4f73-8964-cdc7a532198b",
         "name": "ПЛ Кафедра прикладної лінгвістики",
         "link": "https://lpnu.ua/prl",
         "scientists": [
@@ -707,7 +707,7 @@
     ]
   },
   {
-    "id": "d6ecb7d6-c089-4e2f-a7c4-cb0b0ea24ba1",
+    "id": "039e1940-fc6d-4bdb-bcaa-990d04a21cdc",
     "name": "Комп'ютерні технології, автоматика",
     "link": "https://lpnu.ua/ikta",
     "staff": [
@@ -719,7 +719,7 @@
     ],
     "departments": [
       {
-        "id": "68cef12d-7b7f-42a9-b782-ae0bba9bf140",
+        "id": "781210cc-db24-408a-ace4-aa652455e8b9",
         "name": "СКС Кафедра спеціалізованих комп'ютерних систем  ",
         "link": "https://lpnu.ua/sks",
         "scientists": [
@@ -728,7 +728,7 @@
         ]
       },
       {
-        "id": "9f09a938-c5d0-4975-a33c-f231126cecae",
+        "id": "45686408-a350-4105-b5a7-aa878b88f8ed",
         "name": "КСА Кафедра комп'ютеризованих систем автоматики  ",
         "link": "https://lpnu.ua/ksa",
         "scientists": [
@@ -737,7 +737,7 @@
         ]
       },
       {
-        "id": "c9c91e04-1150-4a09-b0df-bd7cc672d464",
+        "id": "79d6f6cb-ef6a-4e3f-96dd-5b917cafaf42",
         "name": "ЕОМ Кафедра електронних обчислювальних машин  ",
         "link": "https://lpnu.ua/eom",
         "scientists": [
@@ -752,7 +752,7 @@
         ]
       },
       {
-        "id": "635f418e-d850-4b5b-94a1-732c8fe1a748",
+        "id": "1ba0b245-b5d5-4844-8852-f90a781eadc6",
         "name": "ІМР Кафедра інтелектуальної мехатроніки і роботики",
         "link": "https://lpnu.ua/imr",
         "scientists": [
@@ -761,7 +761,7 @@
         ]
       },
       {
-        "id": "c5285d0b-bab1-4274-9900-e9d9062c7209",
+        "id": "e4593f7b-44b0-4fbc-9746-b7c0d3f277a2",
         "name": "ЗІ Кафедра захисту інформації  ",
         "link": "https://lpnu.ua/zi",
         "scientists": [
@@ -769,7 +769,7 @@
         ]
       },
       {
-        "id": "cc50bf4b-0c8c-43cf-824a-df6090d99c10",
+        "id": "1986adba-5d1d-47e6-a00a-98f1b37aa8da",
         "name": "ІВТ Кафедра інформаційно-вимірювальних технологій  ",
         "link": "https://lpnu.ua/ivt",
         "scientists": [
@@ -777,7 +777,7 @@
         ]
       },
       {
-        "id": "69d9a798-4f64-4a6f-9ad6-0e4410efa00d",
+        "id": "1f2a99c1-d6d1-4a97-affd-d9fbe2d7b3f6",
         "name": "БІТ Кафедра безпеки інформаційних технологій  ",
         "link": "https://lpnu.ua/bit",
         "scientists": [
@@ -788,7 +788,7 @@
     ]
   },
   {
-    "id": "cfd19c33-1256-44c8-8902-051f7c9434a1",
+    "id": "99eeaae7-2a94-43c3-a68b-5cef775e063d",
     "name": "Прикладна математика",
     "link": "https://lpnu.ua/imfn",
     "staff": [
@@ -801,7 +801,7 @@
     ],
     "departments": [
       {
-        "id": "17dc1e89-1ce8-4e3b-aed1-bf39c186c00d",
+        "id": "4900d716-9941-4647-88bb-c8d59df6633c",
         "name": "ПМ Кафедра прикладної математики",
         "link": "https://lpnu.ua/pm",
         "scientists": [
@@ -813,7 +813,7 @@
         ]
       },
       {
-        "id": "e815a7f2-0cd9-4b04-a6ab-f6643a2ed39e",
+        "id": "2cbe55bc-67d8-4e58-b677-6c09a570be90",
         "name": "ОМП Кафедра обчислювальної математики і програмування  ",
         "link": "https://lpnu.ua/omp",
         "scientists": [
@@ -823,7 +823,7 @@
         ]
       },
       {
-        "id": "4fb74617-c80a-4196-be93-b70dd284fe48",
+        "id": "c6138e2e-15d0-410d-8160-178e969ca18d",
         "name": "НГГ Кафедра нарисної геометрії та інженерної графіки  ",
         "link": "https://lpnu.ua/nhh",
         "scientists": [
@@ -832,7 +832,7 @@
         ]
       },
       {
-        "id": "1da0f4e4-9e88-45b0-a2c9-4f7616c344db",
+        "id": "eed92866-698d-44f9-8b5f-08755bf7f727",
         "name": "ПФН Кафедра прикладної фізики і наноматеріалознавства  ",
         "link": "https://lpnu.ua/pfn",
         "scientists": [
@@ -841,7 +841,7 @@
         ]
       },
       {
-        "id": "cb5c0eb4-1517-49fe-9a9e-ddd15ea78471",
+        "id": "cd767d24-7bf5-4bc9-9e61-56fef1276a53",
         "name": "ВМ Кафедра вищої математики  ",
         "link": "https://lpnu.ua/vm",
         "scientists": [
@@ -853,7 +853,7 @@
         ]
       },
       {
-        "id": "dccc65b3-165d-45f4-9d4d-7682e43412c6",
+        "id": "2c6d692a-b6b5-4c7d-ac46-dfeaf65e5912",
         "name": "МІ Кафедра міжнародної інформації ",
         "link": "https://lpnu.ua/mi",
         "scientists": [
@@ -864,7 +864,7 @@
         ]
       },
       {
-        "id": "8a798fd0-8547-4bf8-9c87-27effb952a3b",
+        "id": "61c9088e-a4bb-4f2d-b1c5-bca0953a3fa7",
         "name": "КЗФ Кафедра загальної фізики  ",
         "link": "https://lpnu.ua/kzf",
         "scientists": [
@@ -875,7 +875,7 @@
     ]
   },
   {
-    "id": "427b9945-cbf3-4b8c-b2fd-b5adf779c2b0",
+    "id": "d4820d8f-9ced-4095-b80b-69d8a653eaa8",
     "name": "Економіка і менеджмент",
     "link": "https://lpnu.ua/inem",
     "staff": [
@@ -891,7 +891,7 @@
     ],
     "departments": [
       {
-        "id": "47856f92-3a37-42d6-bb03-d517b55599c4",
+        "id": "346e9d8e-1571-40de-a8aa-09c0b9df001b",
         "name": "ЕПІ Кафедра економіки підприємства та інвестицій ",
         "link": "https://lpnu.ua/epi",
         "scientists": [
@@ -904,7 +904,7 @@
         ]
       },
       {
-        "id": "ee3f4a60-b717-4cbc-9b5b-96d82263952d",
+        "id": "30847b75-827b-4bb4-8b81-4a2d0f53d4d8",
         "name": "ЗМД Кафедра зовнішньоекономічної та митної діяльності",
         "link": "https://lpnu.ua/zmd",
         "scientists": [
@@ -917,7 +917,7 @@
         ]
       },
       {
-        "id": "8cf37c22-a71d-44bf-8d14-2907ebe348b7",
+        "id": "7d8bdc6e-fe48-434e-911b-339924c012b6",
         "name": "МЛ Кафедра маркетингу і логістики",
         "link": "https://lpnu.ua/ml",
         "scientists": [
@@ -933,7 +933,7 @@
         ]
       },
       {
-        "id": "b58407fa-90cd-492d-847e-994a082e3547",
+        "id": "6b9dbe93-34d5-4298-becb-3a563c63a43f",
         "name": "ММП Кафедра менеджменту і міжнародного підприємництва",
         "link": "https://lpnu.ua/mmp",
         "scientists": [
@@ -949,7 +949,7 @@
         ]
       },
       {
-        "id": "d94df859-cca1-4750-b4c9-b937663f8d6f",
+        "id": "dd672bcc-ea53-4f29-acd0-a293ac2e0f2a",
         "name": "МО Кафедра менеджменту організацій",
         "link": "https://lpnu.ua/mo",
         "scientists": [
@@ -960,7 +960,7 @@
         ]
       },
       {
-        "id": "9192d313-8641-42bb-8dd2-7c1bb3c154b8",
+        "id": "e49da290-1171-486d-b9c3-76c5cb5daacc",
         "name": "МПА Кафедра менеджменту персоналу та адміністрування",
         "link": "https://lpnu.ua/mpa",
         "scientists": [
@@ -971,7 +971,7 @@
         ]
       },
       {
-        "id": "03ba4249-941d-4d20-88e8-da39f93b68b0",
+        "id": "e2a0e7c4-673b-4c36-b187-8c522f1f7672",
         "name": "ОА Кафедра обліку та аналізу",
         "link": "https://lpnu.ua/oa",
         "scientists": [
@@ -985,7 +985,7 @@
         ]
       },
       {
-        "id": "7e5e0a4c-b141-410c-a3c3-9af595845654",
+        "id": "dfd67845-a6f6-4d5d-860a-07a6f6c3a9e2",
         "name": "ФІН Кафедра фінансів",
         "link": "https://lpnu.ua/fin",
         "scientists": [
@@ -1003,7 +1003,7 @@
     ]
   },
   {
-    "id": "f4047030-04db-4345-a504-37edcd518c71",
+    "id": "deb0b1a6-aa70-410a-946c-4b5f85426ca3",
     "name": "Право, психологія та інноваційна освіта",
     "link": "https://lpnu.ua/ippo",
     "staff": [
@@ -1018,7 +1018,7 @@
     ],
     "departments": [
       {
-        "id": "ddef6c92-4bdd-4d49-8854-4a5f512a0548",
+        "id": "9a56fa3f-466c-4e6d-9ceb-53032c21585d",
         "name": "АІП Кафедра адміністративного та інформаційного права",
         "link": "https://lpnu.ua/aip",
         "scientists": [
@@ -1026,7 +1026,7 @@
         ]
       },
       {
-        "id": "7fe9f6e2-0619-4af0-8b98-03129d909a24",
+        "id": "418b1eb3-bc8e-458a-bcdc-503c860e9ae4",
         "name": "ЦПП Кафедра цивільного права та процесу",
         "link": "https://lpnu.ua/tspp",
         "scientists": [
@@ -1034,7 +1034,7 @@
         ]
       },
       {
-        "id": "7b809727-a303-4613-80a9-f15fc7143677",
+        "id": "515f9f0c-fb1d-466a-8307-9ab42e3fe33b",
         "name": "КПП Кафедра кримінального права і процесу  ",
         "link": "https://lpnu.ua/kpp",
         "scientists": [
@@ -1042,7 +1042,7 @@
         ]
       },
       {
-        "id": "a57aa908-a9a7-4e26-8fb7-d5e25a009b8c",
+        "id": "be0e0bd9-0a38-432b-a1fb-0345d4571a62",
         "name": "ЖЗМК Кафедра журналістики та засобів масової комунікації",
         "link": "https://lpnu.ua/zhzmk",
         "scientists": [
@@ -1050,7 +1050,7 @@
         ]
       },
       {
-        "id": "f51941bd-5045-4c4d-bbcf-f13080a6a7ee",
+        "id": "c67365f1-f4da-4d74-96ba-2708d3d15587",
         "name": "ПІО Кафедра педагогіки та інноваційної освіти ",
         "link": "https://lpnu.ua/pio",
         "scientists": [
@@ -1058,7 +1058,7 @@
         ]
       },
       {
-        "id": "c5e04060-547a-4765-94de-03f565ff7ca7",
+        "id": "09229ed2-892b-4201-ad01-cb126c368326",
         "name": "ТПК Кафедра теорії пpaвa та конституціоналізму",
         "link": "https://lpnu.ua/tpk",
         "scientists": [
@@ -1066,7 +1066,7 @@
         ]
       },
       {
-        "id": "9dbfef2b-e95a-462a-a0b6-f4ff9fa42d6e",
+        "id": "e3b192d8-59f0-478f-b7e0-cd52a0be025e",
         "name": "ТПП Кафедра теоретичної та практичної психології",
         "link": "https://lpnu.ua/tpp",
         "scientists": [
@@ -1074,7 +1074,7 @@
         ]
       },
       {
-        "id": "b427cd07-d795-47dc-828a-890623550ae0",
+        "id": "1def85fd-9762-428e-9bce-fb115b1f58ed",
         "name": "ЦІОТ Центр інноваційних освітніх технологій",
         "link": "https://lpnu.ua/ciot",
         "scientists": [
@@ -1082,7 +1082,7 @@
         ]
       },
       {
-        "id": "449858d3-1c2f-4e1d-acec-82dc1867b1a1",
+        "id": "fb8e9ae1-ee7c-4d3f-95e9-53df17b0ce35",
         "name": "ЦБП Центр Британського Права",
         "link": "https://lpnu.ua/tsbp",
         "scientists": [
@@ -1090,7 +1090,7 @@
         ]
       },
       {
-        "id": "3a0b01fb-720a-4448-8fa4-297c593eba26",
+        "id": "bb4c27c0-a53c-41a4-96aa-a37e59ff318f",
         "name": "ЦБППД Центр безоплатної правової та психологічної допомоги населенню Інституту права, психології та інноваційної освіти Національного університету «Львівська політехніка»",
         "link": "https://lpnu.ua/cbppd",
         "scientists": [
@@ -1098,7 +1098,7 @@
         ]
       },
       {
-        "id": "5f928b1a-62df-489d-b49d-1c5b6d7dbc79",
+        "id": "77808ae3-3d59-45cb-94f1-ce2763795ead",
         "name": "ЦПДҐР Центр правових досліджень ґендерної рівності",
         "link": "https://lpnu.ua/tspdgr",
         "scientists": [
@@ -1108,7 +1108,7 @@
     ]
   },
   {
-    "id": "03beb7e1-694d-4b44-b61b-a38afd8952a1",
+    "id": "341faec5-650e-44a2-a338-e406102e409b",
     "name": "Підприємництво",
     "link": "https://lpnu.ua/ippt",
     "staff": [
@@ -1119,7 +1119,7 @@
     ],
     "departments": [
       {
-        "id": "b4051f44-1246-4d88-b80d-fdb1172fb7c7",
+        "id": "baa93091-2362-4e7d-96f4-ca907e4fad55",
         "name": "ІСТ Кафедра інформаційних систем і технологій",
         "link": "https://lpnu.ua/ist",
         "scientists": [
@@ -1127,7 +1127,7 @@
         ]
       },
       {
-        "id": "66b2cb32-2542-4bf4-acf8-d20b52975b60",
+        "id": "99df9ee3-ff32-4ed1-afeb-e7ff28f4819c",
         "name": "ФОА Кафедра фінансів, обліку і аналізу ",
         "link": "https://lpnu.ua/foa",
         "scientists": [
@@ -1139,7 +1139,7 @@
         ]
       },
       {
-        "id": "257af61e-eb54-4ad8-9b83-399e6b1980bf",
+        "id": "5bf72067-2446-4c59-8076-805a90e07e30",
         "name": "ЕКМ Кафедра економіки і маркетингу ",
         "link": "https://lpnu.ua/ekm",
         "scientists": [
@@ -1149,7 +1149,7 @@
     ]
   },
   {
-    "id": "812533c4-7ca0-4656-9dd8-89d3195c9d7b",
+    "id": "41fb3259-67c3-4fed-85aa-bac089a7a6e1",
     "name": "Сталий розвиток",
     "link": "https://lpnu.ua/istr",
     "staff": [
@@ -1162,7 +1162,7 @@
     ],
     "departments": [
       {
-        "id": "5e8970cc-1fe0-43a1-9820-4d56b64d0b61",
+        "id": "b2887997-e933-4180-af5f-1ef83021cf07",
         "name": "ЕБПД Кафедра екологічної безпеки та природоохоронної діяльності",
         "link": "https://lpnu.ua/ebpd",
         "scientists": [
@@ -1172,7 +1172,7 @@
         ]
       },
       {
-        "id": "ef4b0900-0043-4259-92d7-71d0deee1553",
+        "id": "a45c3592-3894-42d2-8a48-accc444b2cbf",
         "name": "ПЕЕТ Кафедра підприємництва та екологічної експертизи товарів",
         "link": "https://lpnu.ua/peet",
         "scientists": [
@@ -1181,7 +1181,7 @@
         ]
       },
       {
-        "id": "7874dead-7d83-4a9f-a717-138f367b770d",
+        "id": "4876c184-24b2-4b54-af2a-7a231a836cf3",
         "name": "ЕЗП Кафедра екології та збалансованого природокористування",
         "link": "https://lpnu.ua/ezp",
         "scientists": [
@@ -1192,7 +1192,7 @@
         ]
       },
       {
-        "id": "34c566b0-cd7d-4aca-90ed-e90276bde631",
+        "id": "31018318-e031-4b20-9e5e-0992e8b5fe60",
         "name": "ТУР Кафедра туризму",
         "link": "https://lpnu.ua/tur",
         "scientists": [
@@ -1201,7 +1201,7 @@
         ]
       },
       {
-        "id": "925114db-6f61-4d80-92a2-2706d7b17da2",
+        "id": "f8f04964-de1c-4a36-af60-e053bd3e90ab",
         "name": "ЦБ Кафедра цивільної безпеки",
         "link": "https://lpnu.ua/tsb",
         "scientists": [
@@ -1212,7 +1212,7 @@
     ]
   },
   {
-    "id": "1ccd81cc-962d-45a6-a5a7-1918d58e19a0",
+    "id": "ebddea96-db32-4364-9275-d29489c1a5ee",
     "name": "Tелекомунікації, радіоелектроніка",
     "link": "https://lpnu.ua/itre",
     "staff": [
@@ -1224,7 +1224,7 @@
     ],
     "departments": [
       {
-        "id": "935504be-0dee-4bb9-884f-09055ad235d3",
+        "id": "69d33cb7-ff42-41f9-8ad9-65a99da657e2",
         "name": "ЕЗІКТ Кафедра електронних засобів інформаційно-комп’ютерних технологій  ",
         "link": "https://lpnu.ua/ezikt",
         "scientists": [
@@ -1232,7 +1232,7 @@
         ]
       },
       {
-        "id": "62fd4a98-1870-4e5d-a928-24b2288d0858",
+        "id": "fd59ee6e-60c5-4015-aa84-8fe1555e0687",
         "name": "РЕПС Кафедра радіоелектронних пристроїв та систем  ",
         "link": "https://lpnu.ua/reps",
         "scientists": [
@@ -1241,7 +1241,7 @@
         ]
       },
       {
-        "id": "e0485d1f-1d03-44a8-88f4-9768a0f95e77",
+        "id": "7ac6cd29-b1f7-47cf-9d9a-6289f53551cd",
         "name": "НПЕ Кафедра напівпровідникової електроніки  ",
         "link": "https://lpnu.ua/npe",
         "scientists": [
@@ -1250,7 +1250,7 @@
         ]
       },
       {
-        "id": "cd30e4dd-51a7-451e-8867-24d6cff12f48",
+        "id": "0a5b1498-789d-41cf-91c9-dfb350765e45",
         "name": "ТК Кафедра телекомунікацій",
         "link": "https://lpnu.ua/tk",
         "scientists": [
@@ -1258,7 +1258,7 @@
         ]
       },
       {
-        "id": "dd2aba59-d6ff-4c8f-bbd3-1544b9ec0fa6",
+        "id": "81bf4de9-64fa-4854-9a4a-ba512acc4547",
         "name": "ТРР Кафедра теоретичної радіотехніки та радіовимірювання",
         "link": "https://lpnu.ua/trr",
         "scientists": [
@@ -1268,17 +1268,18 @@
         ]
       },
       {
-        "id": "3cec8e66-61fb-4aed-aaab-7bf42ad715fa",
+        "id": "f3b68623-df56-40c9-be03-a3d6062bb04a",
         "name": "ЕЛІ Кафедра електронної інженерії",
         "link": "https://lpnu.ua/eli",
         "scientists": [
-          "Яремчук Ірина Ярославівна"
+          "Яремчук Ірина Ярославівна",
+          "Стахіра Павло Йосипович"
         ]
       }
     ]
   },
   {
-    "id": "2f858874-a5bc-4d96-9018-ab8d44170ba1",
+    "id": "bff3d4e9-512a-45b6-ab8d-f6592462ade4",
     "name": "Хімія та хімічні технології",
     "link": "https://lpnu.ua/ikhkht",
     "staff": [
@@ -1291,7 +1292,7 @@
     ],
     "departments": [
       {
-        "id": "93d2b88b-6fe1-4328-ac16-ad941d80b6e7",
+        "id": "f9479357-492f-4e70-9151-251e3fc54093",
         "name": "ХІ Кафедра хімічної інженерії",
         "link": "https://lpnu.ua/hi",
         "scientists": [
@@ -1300,7 +1301,7 @@
         ]
       },
       {
-        "id": "f57fe7c0-5cf3-4a7f-b4b3-ef6010bb5bbc",
+        "id": "5f90cacf-fb0d-4b02-8005-ddbccc0ac4a8",
         "name": "ХТНГ Кафедра хімічної технології переробки нафти та газу  ",
         "link": "https://lpnu.ua/khtnh",
         "scientists": [
@@ -1309,7 +1310,7 @@
         ]
       },
       {
-        "id": "8de2caaf-3fee-42aa-ba76-2f2581edb25d",
+        "id": "66a715a4-3f29-4669-a6d8-d9ab64dbf30d",
         "name": "ХТНР Кафедра хімії і технології неорганічних речовин  ",
         "link": "https://lpnu.ua/htnr",
         "scientists": [
@@ -1318,7 +1319,7 @@
         ]
       },
       {
-        "id": "5650e77a-805f-40c5-bf71-389e8f99c614",
+        "id": "58270dcd-f606-4e6b-9d43-6d6849ab6903",
         "name": "ОХ Кафедра органічної хімії  ",
         "link": "https://lpnu.ua/oh",
         "scientists": [
@@ -1327,7 +1328,7 @@
         ]
       },
       {
-        "id": "c8b2620f-f800-4f2b-9277-82b68eaf39b0",
+        "id": "89fa3dcc-7656-4a61-ac2a-e7a953975c5a",
         "name": "ХТПП Кафедра хімічної технології переробки пластмас",
         "link": "https://lpnu.ua/htpp",
         "scientists": [
@@ -1336,7 +1337,7 @@
         ]
       },
       {
-        "id": "3fcf40f2-d612-407a-9951-18ce4fc02052",
+        "id": "a604f08e-5587-4499-bc6b-884f50a717ba",
         "name": "ХТС Кафедра хімічної технології силікатів",
         "link": "https://lpnu.ua/hts",
         "scientists": [
@@ -1345,7 +1346,7 @@
         ]
       },
       {
-        "id": "db7d372f-495e-4d05-8e27-3f8928045dac",
+        "id": "55f217a2-083e-48e4-b780-5bae628c0770",
         "name": "ТБСФБ Кафедра технології біологічно активних сполук, фармації та біотехнології  ",
         "link": "https://lpnu.ua/tbsfb",
         "scientists": [
@@ -1355,7 +1356,7 @@
         ]
       },
       {
-        "id": "5e623e4a-def7-4ac6-9889-2aced1fa5a47",
+        "id": "d2ec0052-06d5-4a53-97ee-1073ebb06b18",
         "name": "ТОП Кафедра технології органічних продуктів",
         "link": "https://lpnu.ua/top",
         "scientists": [
@@ -1364,7 +1365,7 @@
         ]
       },
       {
-        "id": "db5337fb-b073-47bd-99ed-a2c41857fd73",
+        "id": "47022c13-6a33-4be0-a0a3-1aa91bb99252",
         "name": "ФАЗХ Кафедра фізичної, аналітичної та загальної хімії",
         "link": "https://lpnu.ua/fazh",
         "scientists": [
@@ -1373,7 +1374,7 @@
         ]
       },
       {
-        "id": "c10c2633-6c30-4bdd-8d2d-4d36a97069c8",
+        "id": "31f76c4b-a2ce-4285-a9bc-e3139aa1d14b",
         "name": " Проєкт «До вершин з РОШЕН»",
         "link": "https://lpnu.ua/do-vershyn-z-roshen",
         "scientists": [
