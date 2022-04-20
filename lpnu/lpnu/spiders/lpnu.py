@@ -1,8 +1,10 @@
+from re import search
+
 import scrapy
+from bs4 import BeautifulSoup
 from lpnu.items import InstituteItem, StaffItem, ScientistItem, DepartmentItem
 from requests import get
-from re import search
-from bs4 import BeautifulSoup
+
 
 class LpnuSpider(scrapy.Spider):
     name = "lpnu"
