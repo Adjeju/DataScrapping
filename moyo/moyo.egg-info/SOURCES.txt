@@ -1,0 +1,14 @@
+deploy.py
+moyo/SeleniumRequest.py
+moyo/__init__.py
+moyo/items.py
+moyo/middlewares.py
+moyo/pipelines.py
+moyo/settings.py
+moyo.egg-info/PKG-INFO
+moyo.egg-info/SOURCES.txt
+moyo.egg-info/dependency_links.txt
+moyo.egg-info/entry_points.txt
+moyo.egg-info/top_level.txt
+moyo/spiders/__init__.py
+moyo/spiders/moyo.py
